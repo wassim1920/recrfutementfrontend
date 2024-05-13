@@ -7,7 +7,7 @@ import MainProfile from "./Components/profile/mainProfile.jsx";
 // const Nav = styled.div`
 //   display: flex;
 // `;
-// const NavLeft = styled.div`
+// const NavLeft = styled        .div`
 //   width:25%;
 // `;
 // const NavRight = styled.div`
